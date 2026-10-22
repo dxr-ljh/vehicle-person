@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "F:\\test\\vehicle_person_detector\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "9659ea1ad1df36ad29281bef12ca50737ef4cdf6b9b5738d6aaadea76ce2d1b9",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
